@@ -27,4 +27,8 @@ public class LoginTest {
     }
     //commented on remote
 
+    @Test
+    public void test3(){
+        System.out.println("test 3x");
+    }
 }
