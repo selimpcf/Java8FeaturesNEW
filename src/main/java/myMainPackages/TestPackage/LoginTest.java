@@ -5,7 +5,7 @@ import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
 public class LoginTest {
-    
+
     @BeforeMethod
     public void before() {
         System.out.println("before method");
